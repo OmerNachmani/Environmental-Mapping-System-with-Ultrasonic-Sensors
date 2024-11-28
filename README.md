@@ -1,5 +1,5 @@
 # Environmental Mapping System
-
+![Project Setup](main/project_setup.png)
 An innovative project utilizing ultrasonic sensors, Arduino, and servo motors to create a real-time environmental mapping system. The system detects objects, calculates distances, and visually represents the data on an LCD screen.
 
 ## Features
