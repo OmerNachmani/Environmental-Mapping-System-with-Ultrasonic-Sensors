@@ -1,5 +1,6 @@
 # Environmental Mapping System
 <img src="project_setup.png" alt="Project Setup" width="400">
+
 A small project utilizing ultrasonic sensors, Arduino, and servo motors to create a real-time environmental mapping system. The system detects objects, calculates distances, and visually represents the data on an LCD screen.
 
 ## Features
@@ -21,6 +22,9 @@ A small project utilizing ultrasonic sensors, Arduino, and servo motors to creat
 2. **Angular Scanning**: The servo motor rotates the sensor to scan the environment at 1-degree intervals up to 180 degrees.
 3. **Data Processing**: Distances and angles are converted into vector data.
 4. **Visualization**: The LCD screen displays the detected object's distance and angle for real-time tracking.
+
+## Overview of Circuit Layout
+<img src="circuit_layout.png" alt="Project Setup" width="1000">
 
 ## Installation and Usage
 1. Clone this repository:
